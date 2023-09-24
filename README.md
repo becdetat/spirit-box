@@ -1,2 +1,5 @@
-# spirit-radio
-An Arduino-controlled spirit radio - an AM crystal radio that scans up and down the frequency range
+# Spirit Box
+
+An Arduino-controlled spirit box - an AM crystal radio that automatically scans up and down the frequency range.
+
+
